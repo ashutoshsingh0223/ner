@@ -1,8 +1,8 @@
+from __future__ import unicode_literals, print_function
 import pandas as pd
 import numpy as np
 import json
 import re
-from __future__ import unicode_literals, print_function
 import plac
 import re
 import random
