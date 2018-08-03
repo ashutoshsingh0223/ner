@@ -1,3 +1,4 @@
+#!/usr/bin/python -u
 from __future__ import unicode_literals, print_function
 import pandas as pd
 import numpy as np
@@ -10,6 +11,7 @@ from pathlib import Path
 import spacy
 import json
 import sys
+import time
 # reload(sys)
 # sys.setdefaultencoding("utf8")
 from xlrd import open_workbook
