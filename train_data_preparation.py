@@ -10,8 +10,8 @@ from pathlib import Path
 import spacy
 import json
 import sys
-reload(sys)
-sys.setdefaultencoding("utf8")
+# reload(sys)
+# sys.setdefaultencoding("utf8")
 from xlrd import open_workbook
 import xlsxwriter
 
